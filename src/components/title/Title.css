@@ -1,0 +1,61 @@
+.black-title {
+    background-color: black;
+}
+
+.jersey{
+font-family: 'Orbitron';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+text-transform: uppercase;
+color: #FFFFFF;
+padding-top: 60px;
+margin-bottom: 24px;
+
+}
+
+.bestsellers{
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #FB0223;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    width: 100%;
+    margin: 10px 0px;
+    
+}
+
+.collection {
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 82px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border-bottom: 3px solid white;
+    width: 100%;
+    margin: 10px 0px;
+
+    
+}
+
+.nba-players{
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 34px 0px;
+}
+
+.black-title-content{
+    margin: 0px 120px;
+}

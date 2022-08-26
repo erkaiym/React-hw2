@@ -1,0 +1,48 @@
+.LeBron{
+    width: 295px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+    color: #FFFFFF;
+    
+}
+
+.Nike{
+    width: 252px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+    color: #FFFFFF;
+    opacity: 0.5;
+    margin-bottom: 16px;
+}
+
+.price{
+    width: 43px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+    color: #FFFFFF;
+    
+}
+
+.main-photo{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 120px;
+}
+
+.yellow-photo{
+width: 373px;
+height: 373px;
+}
+
